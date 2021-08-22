@@ -1,5 +1,5 @@
 <h2> Hi, I'm José Román! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media2.giphy.com/media/UuwGoexgbpJyTnlqPC/giphy.gif?cid=ecf05e47v7jl5eet9yml40n5iyrlni71h73gbwg8ouyu8msf&rid=giphy.gif&ct=s" width="230">
 <p><em>Telematic Engineer at <a href="http://www.unb.br">University of PUCMM</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
   
 [![Linkedin: JRoman2018](https://img.shields.io/badge/-joseroman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-román-5497a1194/)](https://www.linkedin.com/in/josé-román-5497a1194/)
