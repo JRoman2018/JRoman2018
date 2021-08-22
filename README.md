@@ -10,7 +10,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const jose = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, C#],
   tools: [React, Redux, Vue, Styled-Components, Git, .Net Core],
