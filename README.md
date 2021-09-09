@@ -14,7 +14,7 @@
 const jose = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS, C#],
-  tools: [React, Redux, Vue, Styled-Components, Git, .Net Core],
+  tools: [React, Redux, VueJs, Styled-Components, Git, .Net Core],
   architecture: ["microservices", "Repository Service Pattern", "design system pattern"],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
